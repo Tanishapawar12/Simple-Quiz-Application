@@ -22,7 +22,7 @@ public class QuizModel {
         options.add(new String[]{"1.0","2.1", "3.2 ","4.3"});
         correctAnswers.add("2");
 
-        questions.add("What is the hardest natural substance on Earth??");
+        questions.add("What is the hardest natural substance on Earth?");
         options.add(new String[]{"1. Gold","2.Diamond","3.Iron","4.Steel"});
         correctAnswers.add("2");
     }
